@@ -5,6 +5,7 @@
 ## 预览
 
 - 花旦猫.jpg
+
 ![花旦猫](https://cdn.jsdelivr.net/gh/MiNuoMiao/MaoMi@main/img/花旦猫.jpg)
 
 ## 使用方法
